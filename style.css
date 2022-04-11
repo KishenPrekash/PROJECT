@@ -1,0 +1,107 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  background-image: url("image1.png");
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+div{
+  width: 790px;
+  margin: 40px auto;
+  background-color:#222230;
+  box-shadow: 1px 1px 22px 0px rgba(0,0,0,0.67);
+  padding: 30px;
+  border-radius: 10px;
+}
+h1{
+  text-align: center;
+  font-weight: bold;
+  margin-top:30px;
+}
+input{
+  margin-top: 0px;
+   color: white;
+  border-radius: 8px;
+  border: 1px;
+}
+input[type='submit']{
+ outline: none;
+ width: 100%;
+ background-color: #04a2b3;
+ padding: 8px 10px;
+ margin: 10px auto;
+ cursor: pointer;
+ display:flex;
+ justify-content: center;
+}
+input[type="text"]{
+ width: 280px;
+ padding: 7px;
+ margin: 10px;
+ border:1px;
+ background-color:#39304d;
+}
+select{
+  color:white;
+  border-radius: 8px;
+  width: 280px;
+  padding: 7px;
+  margin: 10px;
+  border:1px;
+  background-color:#39304d;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.choice{
+  display: flex;
+  justify-content: center;
+  background-color:#04a2b3;
+  color: white;
+  margin-top: 30px ;
+  padding: 7px;
+  border-radius: 10px;
+  text-align: center;
+}
+.submit{
+    display: flex;
+    justify-content: center;
+    background-color:#04a2b3;
+    color: white;
+    margin:  10px 100px;
+    padding: 7px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.logout{
+  display: flex;
+  justify-content: center;
+  background-color:#3f7bd2;
+  margin-top:20px;
+  padding: 7px;
+  border-radius: 10px;
+}
+.del a{
+  color: #c2484b;
+}
+.up a{
+  color: #04a2b3;
+}
+.rej a{
+  color: #c2484b;
+}
+.app a{
+  color: #04a2b3;
+}
+table{
+  border-collapse: collapse;
+}
+table tr:nth-child(even){
+  background-color: #1e384a;
+}
+.row1{
+  background-color: #04a2b3;
+}
+

@@ -1,0 +1,22 @@
+application_form ok
+list ok
+status ok
+approve ok
+check_login ok
+config ok
+create_database ok
+create_tables ok
+delete_user ok
+index done
+all inserts ok except insert_student ?
+logout ok
+main ok
+new_user ok
+organization_form ok
+organization_list ok
+reject ok
+test ok
+update_coordinator ok
+update_form ok
+update_student ok
+users_list ok
